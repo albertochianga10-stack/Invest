@@ -1,0 +1,17 @@
+
+{
+  "name": "Applemar Invest",
+  "short_name": "Applemar",
+  "description": "Análise de Investimento Empresarial Premium",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#e5aa70",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2534/2534181.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
